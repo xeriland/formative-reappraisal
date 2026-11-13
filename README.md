@@ -80,7 +80,6 @@ Future additions to this repository may include:
 
 His work spans human–AI interaction, cognitive and affective psychology, quantitative methods, and educational technology. His research interests include emotion regulation, intelligent learning systems, adaptive intervention, and computational approaches to understanding human behavior.
 
-Xeriland developed Formative Reappraisal through his doctoral research on student disengagement in intelligent tutoring systems.
 ---
 
 *Formative Reappraisal was developed by Timothy J. Xeriland as part of his doctoral research investigating student disengagement in intelligent tutoring systems.*
