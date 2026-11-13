@@ -76,10 +76,11 @@ Future additions to this repository may include:
 
 ## About the Researcher
 
-**Timothy J. Xeriland, PhD** is an interdisciplinary psychologist and educational researcher whose work spans human–AI interaction, cognitive and affective psychology, quantitative methods, and educational technology.
+**Timothy J. Xeriland, PhD** is an interdisciplinary psychologist and educational researcher currently serving as an Assistant Professor of Psychology at Houghton University.
 
-His research interests include emotion regulation, intelligent learning systems, adaptive intervention, and computational approaches to understanding human behavior.
+His work spans human–AI interaction, cognitive and affective psychology, quantitative methods, and educational technology. His research interests include emotion regulation, intelligent learning systems, adaptive intervention, and computational approaches to understanding human behavior.
 
+Xeriland developed Formative Reappraisal through his doctoral research on student disengagement in intelligent tutoring systems.
 ---
 
 *Formative Reappraisal was developed by Timothy J. Xeriland as part of his doctoral research investigating student disengagement in intelligent tutoring systems.*
